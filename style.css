@@ -1,0 +1,14 @@
+.col{
+    margin: 5px;
+    height: 8rem;
+    background-color: aquamarine;
+}
+
+.col:nth-child(3n-1){
+    background-color: rgb(90, 99, 228);
+
+}
+.col:nth-child(2n-1){
+    background-color: rgb(77, 79, 95);
+
+}
